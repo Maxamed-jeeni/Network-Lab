@@ -1,0 +1,17 @@
+
+
+					Section One:- Network Types
+
+Local-area network (LAN) 
+Wide-area network (WAN) 
+Metropolitan-area network (MAN) 
+Personal-area network (PAN) 
+Campus-area network (CAN) 
+
+					Section Two:- Network Topology.
+
+Bus Topology
+Ring Topology
+Star Topology
+Mesh Topology
+Hybrid Topology
